@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good deeds ill requited, or, An answer to innocence unveil'd being a poem in vindication of Dr. Oates and Mr. Bedloe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41401</idno>
+            <idno type="STC">Wing G1042</idno>
+            <idno type="STC">ESTC R15654</idno>
+            <idno type="EEBO-CITATION">13593946</idno>
+            <idno type="OCLC">ocm 13593946</idno>
+            <idno type="VID">100724</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41401)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100724)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 788:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good deeds ill requited, or, An answer to innocence unveil'd being a poem in vindication of Dr. Oates and Mr. Bedloe.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and probable date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705 --  Poetry.</term>
+               <term>Bedloe, William, 1650-1680 --  Poetry.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:100724:1"/>
+            <pb n="1" facs="tcp:100724:1"/>
+            <head>Good Deeds ill Requited: OR, AN ANSWER TO INNOCENCE UNVEIL'D. BEING A POEM In Vindication of Dr. <hi>Oates</hi> and Mr. <hi>Bedloe.</hi>
+            </head>
+            <l>WIſe <hi>Solomon</hi> has ſaid, 'Tis ſometimes fit</l>
+            <l>To anſwer one, that has nor <hi>Senſe,</hi> nor <hi>Wit,</hi>
+            </l>
+            <l>Leſt the vain <hi>Fop</hi> grow wiſe, in's own Conceit.</l>
+            <l>A <hi>Poem!</hi> Bleſs us, <hi>Muſes!</hi> railing Rhimes,</l>
+            <l>Where Diſcord only, and no Muſick chimes:</l>
+            <l>Where <hi>Malice,</hi> and no <hi>Wit</hi> or <hi>Sence</hi> is ſhown,</l>
+            <l>And Puddle-dirt at worthy men is thrown.</l>
+            <l>That mortal man in paltry <hi>Rhime</hi> ſhould prate,</l>
+            <l>Like a ſhe-<hi>Orator</hi> of <hi>Billingsgate;</hi>
+            </l>
+            <l>Who, if ſhe ever did at <hi>Crambo</hi> play,</l>
+            <l>Might rail in <hi>Rhime,</hi> and better things would ſay.</l>
+            <l>Poor quibling Fool did lack ſome <hi>Oaten</hi> drink,</l>
+            <l>To help inſpire his wooden Wit, I think,</l>
+            <l>Who his fine <hi>Poem</hi> uſher'd (out upon't!)</l>
+            <l>With a moſt ſilly <hi>Quibble</hi> in the Front.</l>
+            <l>Thoſe very Men his Worſhip termeth Fools</l>
+            <l>Handle edge, better than he rhiming, tools:</l>
+            <l>And tho theſe men he <hi>Saviours</hi> calls in ſcorn,</l>
+            <l>And doth with <hi>Coxcombs, Fools,</hi> and <hi>Knaves,</hi> adorn</l>
+            <l>His railing Verſe; they ſhall in Story dwell</l>
+            <l>In Heav'nly Fame, like Angels that ne'er fell,</l>
+            <l>Whilſt ſuch as he lie in Oblivions Hell.</l>
+            <l>What Stuff he's made of, all the world may ſee;</l>
+            <l>But <hi>Jeſuit</hi>'s Heart won't with <hi>Fool</hi>'s Brain agree.</l>
+            <pb n="2" facs="tcp:100724:2"/>
+            <l>We can his Spleen however well detect;</l>
+            <l>Their Evidence he'd make of no effect.</l>
+            <l>At that alone his ſquinting Verſes look,</l>
+            <l>A ſafer way indeed than <hi>Reading</hi> took:</l>
+            <l>But 'twill not do; his <hi>Rhymes</hi> do <hi>Reaſon</hi> lack,</l>
+            <l>For all the <hi>Law,</hi> of which you ſo much crack;</l>
+            <l>The Foil'd may riſe, and lay ſome on their back.</l>
+            <l>Touch the gall'd back of any furious Beaſt,</l>
+            <l>He'll bite and kick, or wince and fling at leaſt;</l>
+            <l>And he that meddles, when the Beaſt does feel,</l>
+            <l>Had need be guarded well, gainſt iron heel.</l>
+            <l>I am no <hi>Surgeon,</hi> and ſhan't rake in Sore;</l>
+            <l>The World have Eyes, and I ſhall ſay no more.</l>
+            <l>If ſome ſay Black is White, I am content,</l>
+            <l>Or call a <hi>running Sore</hi> an <hi>Ornament.</hi>
+            </l>
+            <l>The <hi>Romans</hi> did not cackling <hi>Geeſe</hi> deſpiſe,</l>
+            <l>Who kept their <hi>Capitol</hi> from a Surpriſe:</l>
+            <l>But we fling Dirt at men, like unwiſe Sots,</l>
+            <l>Who have the <hi>Nation</hi> ſav'd from <hi>Jeſuits</hi> Plots.</l>
+            <l>Since <hi>Jeſuits</hi> can't the Nation now trepan,</l>
+            <l>They'll do it all the Miſchief that they can,</l>
+            <l>And with foul <hi>Mouths,</hi> worſe <hi>Pens,</hi> and lying <hi>Notes,</hi>
+            </l>
+            <l>Rail with full Cry, at <hi>Bedloe,</hi> and at <hi>Oates.</hi>
+            </l>
+            <l>Who will hereafter <hi>Traytors</hi> Plots make known,</l>
+            <l>If no Encouragement to theſe are ſhown?</l>
+            <l>When ſcurrilous <hi>Pamphleteers</hi> ſhall dayly try</l>
+            <l>To make their Evidence to ſeem a Lye;</l>
+            <l>To make them <hi>Juglers,</hi> wicked, perjur'd <hi>Knaves,</hi>
+            </l>
+            <l>
+               <hi>Inventors</hi> of ſtrange Plots, the worſt of <hi>Slaves;</hi>
+            </l>
+            <l>Men who of right by us ſhould honour'd be,</l>
+            <l>Their Names made great to all Poſteritie;</l>
+            <l>And for Encouragement, and greater Grace,</l>
+            <l>Their <hi>Statues</hi> ſet up in ſome publick place.</l>
+            <l>Whate'er that ſcribling <hi>Poetaſter</hi> writes,</l>
+            <l>Thoſe very <hi>Commons</hi> which his Worſhip ſlights,</l>
+            <l>May in good time make <hi>Truth</hi> and <hi>Juſtice</hi> known;</l>
+            <l>And who the <hi>Knaves</hi> are then, will beſt be ſhown.</l>
+            <l>Then <hi>Oates</hi> and <hi>Bedloe</hi>'s Story will be told,</l>
+            <l>And 'twill appear they have not been too bold,</l>
+            <l>But that both <hi>Truth</hi> and <hi>Juſtice</hi> once was fold.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100724:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
